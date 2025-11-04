@@ -13,5 +13,5 @@ spec:
         cpu: "100m"
       # Hard Limit(Max)
       limits:
-        memory: "67Mi"
-        cpu: "100m"
+        memory: "70Mi"
+        cpu: "10m"
